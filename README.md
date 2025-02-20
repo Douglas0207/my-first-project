@@ -19,14 +19,6 @@ Welcome to my first **frontend webpage**! 🚀 This project is built using **HTM
 │── style.css   # CSS file for styling
 └── assets/     # (Optional) Images, fonts, etc.
 
-## 🚀 How to Run the Project  
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-
-	2.	Open index.html in a browser
-Just double-click the index.html file or open it with Live Server in VS Code.
-
 📌 Future Improvements
 
 🔹 Add JavaScript for interactivity
