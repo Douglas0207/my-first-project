@@ -31,6 +31,5 @@ This is my first project, and I’d love to hear your feedback! Feel free to for
 
 📧 Contact
 
-Have questions or suggestions? Reach out to me at [your-email@example.com] or connect on [your social link].
+Have questions or suggestions? Reach out to me at robinson4jesuschrist@gmail.com .
 
-Hope this helps! Let me know if you want modifications. 🚀🔥
